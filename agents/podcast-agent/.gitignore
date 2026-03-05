@@ -1,0 +1,8 @@
+# Podcast Agent Specific Exclusions
+output/
+logs/
+__pycache__/
+*.mp3
+*.mp4
+*.bak
+_tmp_source.txt

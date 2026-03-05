@@ -1,0 +1,16 @@
+{
+    "channels": [
+        "https://www.youtube.com/@nateherk",
+        "https://www.youtube.com/@nicksaraev",
+        "https://www.youtube.com/@Itssssss_Jack",
+        "https://www.youtube.com/@Chase-H-AI"
+    ],
+    "lookback_hours": 24,
+    "podcast_format": "deep_dive",
+    "podcast_length": "default",
+    "output_dir": "output",
+    "logs_dir": "logs",
+    "language": "en",
+    "notebook_title_prefix": "AI Daily Digest",
+    "min_transcript_length": 100
+}
